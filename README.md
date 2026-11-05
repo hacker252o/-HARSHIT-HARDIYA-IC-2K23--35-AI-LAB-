@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI / Machine Learning Lab Programs
 
 Beginner-friendly Python programs arranged lab-wise from the supplied experiment list.
@@ -37,3 +38,6 @@ of the ideas, not production-grade image classifiers.
 
 For a GitHub submission, include the source files and this README. Do not commit `.venv/`, cache files,
 or private credentials.
+=======
+Ai
+>>>>>>> 01c06c10e7c645085be475ce628896a5e18d0298
